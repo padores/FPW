@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    background-color: #ffb327;
+}
+
+.menu>div {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.2s;
+    background-color: #ffb327;
+}
+
+.menu>div:hover {
+    background: #f0f0f0;
+    border-radius: 4px;
+}

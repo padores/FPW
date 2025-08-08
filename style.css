@@ -1,9 +1,0 @@
-#menu {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: #ffb327;
-}
-
-#menu>div {
-    background-color: #ffb327;
-}
